@@ -47,8 +47,10 @@ const Recepes = styled.div`
 `;
 
 function Home() {
-  const APP_ID = "95417efe";
-  const APP_KEY = "Add your key";
+  // Get your APP_ID and APP_KEY from "https://developer.edamam.com/"
+
+  const APP_ID = "YOUR APP ID";
+  const APP_KEY = "YOUR APP KEY";
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
