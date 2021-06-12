@@ -1,11 +1,7 @@
 import styled from "styled-components";
 
-// import image1 from "../assets/image1.png";
-// import image2 from "../assets/image2.png";
 
-const StyledWrapper = styled.div`
-  /* display: flex; */
-`;
+const StyledWrapper = styled.div``;
 
 const StyledCard = styled.div`
   border-top: 20px solid #f6f6f6;
