@@ -1,15 +1,9 @@
-import Filters from "./components/Filters";
-import Search from "./components/Search";
-import Cuisines from "./components/Cuisines";
-import Restaurants from "./components/Restaurants";
+import Home from "./components/Home";
 
 function App() {
   return (
     <div className="App">
-      <Filters />
-      <Search />
-      <Cuisines />
-      <Restaurants />
+      <Home />
     </div>
   );
 }
