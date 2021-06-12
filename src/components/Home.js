@@ -48,7 +48,7 @@ const Recepes = styled.div`
 
 function Home() {
   const APP_ID = "95417efe";
-  const APP_KEY = "76d23d547a05c048fabba9c17398f344";
+  const APP_KEY = "Add your key";
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
